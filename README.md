@@ -1,8 +1,9 @@
 # GAIH Student Repo Example
 ![](img/logo.png)
 
-**Course Date:** 15.02.2021 
-**Name:** Laçin
+**Course Date:**  15.02.2021 
+
+**Name:**  Laçin
 **Surname:** Boz
 **Email:** lacinboz1@gmail.com  
 
